@@ -1,3 +1,4 @@
+// Seach text and Search Button
 var searchInput = document.getElementById("search-input");
 var searchButton = document.getElementById("search-button");
 
