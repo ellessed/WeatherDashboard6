@@ -12,7 +12,7 @@ function secondCall(lat, lon) {
     })
     .then(function (data) {
       console.log(data);
-      //create cards here
+      //create cards here, for loop
     });
 }
 
